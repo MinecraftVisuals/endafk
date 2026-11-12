@@ -1,0 +1,9 @@
+name: EndProtection
+version: 1.0.0
+main: net.endprotection.EndProtectionPlugin
+api-version: '1.21'
+description: Protects the main End island from building, breaking and explosions
+permissions:
+  endprotection.bypass:
+    description: Build and break blocks inside the protected End region
+    default: op
