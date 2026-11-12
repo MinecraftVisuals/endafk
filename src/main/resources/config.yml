@@ -1,0 +1,7 @@
+end-protection:
+  # Radius in blocks, measured on X/Z only (full world height is always protected)
+  radius: 600
+  center-x: 0
+  center-z: 0
+  # Shown on the action bar. Supports & color codes.
+  message: "&cYou can't build or break blocks on the main End island."
